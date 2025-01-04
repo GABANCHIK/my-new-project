@@ -1,3 +1,5 @@
 green - #00FF00
 black - #111111
 white - #ffffff
+grey - #bbbbbb
+dark yellow - #abab12
